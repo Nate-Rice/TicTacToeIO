@@ -20,6 +20,6 @@ Shop:
 
 Game Room:
 
-<img src = https://user-images.githubusercontent.com/47485249/85234893-cfe19300-b3de-11ea-9ab0-99fa84baf717.png" >
+<img src = "https://user-images.githubusercontent.com/47485249/85234893-cfe19300-b3de-11ea-9ab0-99fa84baf717.png" >
 
 
