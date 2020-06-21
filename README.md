@@ -1,5 +1,5 @@
 # TicTacToeIO
-Multiplayer tic-tac-toe game with customizable game board.
+Multiplayer tic-tac-toe game with customizable game board. Upon winning a game against an opponent, the player is awarded coins which they can then use in the in-game shop system to change the images of their X and O pieces.
 
 Below are screenshots of what the project looks like.
 
